@@ -11,3 +11,13 @@ git push:it is used  to move the file to main folder
 git pull:it is used if any changes to file made by a another one to know
 git status:it is uaed to show the status of changes as modified nd tracked
 git log :it is used to show total history of file
+
+<html>
+<head>
+<body>
+<script>
+alert('first example");
+</script>
+</body>
+</head>
+</html>
