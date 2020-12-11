@@ -1,3 +1,5 @@
+
+
 git
  it is commonly used for both open source and softwrae development.
  it helps to see the entire chnages,progression of any project in one place.
@@ -21,3 +23,14 @@ alert('first example");
 </body>
 </head>
 </html>
+
+<html>
+
+
+
+## Git Notes
+
+### To create a new project
+    mkdir mypoject
+    cd myproject
+    git init
